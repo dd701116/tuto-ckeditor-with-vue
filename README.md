@@ -1,6 +1,6 @@
 # test-ckeditor-with-vue3
 
-[![Youtube]](https://youtu.be/2HGGoGRwFgU)
+[![Youtube](https://user-images.githubusercontent.com/43044653/119647181-44f3ee80-be20-11eb-805e-97d4d7aa3f4b.jpg)](https://youtu.be/2HGGoGRwFgU)
 
 ## Project setup
 ```
