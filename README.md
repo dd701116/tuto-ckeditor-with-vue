@@ -1,5 +1,7 @@
 # test-ckeditor-with-vue3
 
+[![Youtube]](https://youtu.be/2HGGoGRwFgU)
+
 ## Project setup
 ```
 npm install
